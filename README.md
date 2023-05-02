@@ -1,6 +1,6 @@
 ### Olá! 
 
-Compartilho aqui no GitHub alguns dos meus projetos relacionados à ciencia e análise de dados.
+Compartilho aqui alguns dos meus projetos de ciencia e análise de dados.
 
 - 📫 Sou mestre em economia pela UFRJ com foco em econometria de séries temporais
 - ⚡ Agora estou trabalhando em projetos com modelos de machine learning e análise de dados
