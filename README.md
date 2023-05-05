@@ -1,9 +1,9 @@
 ### Hi, I'm Michelle :)
 
+- 👩‍💻 Currently working on machine learning and data analysis projects
+- 🎲 My interests include statistics, economics and forecasting models
+- 💻 Programming languages: Python & R
 - 📫 Msc in economics at UFRJ
-- ⚡ Currently working on machine learning and data analysis projects
-- 👯 My interests include statistics, economics and forecasting models
-- 👩‍💻 Programming languages: Python & R
 
 
 
