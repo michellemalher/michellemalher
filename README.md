@@ -1,11 +1,9 @@
-### Olá! 
+### Hi, I'm Michelle :)
 
-Compartilho aqui alguns dos meus projetos de ciencia e análise de dados.
-
-- 📫 Mestre em economia pela UFRJ com foco em econometria de séries temporais
-- ⚡ Trabalhando em projetos com modelos de machine learning e análise de dados
-- 👯 Tenho interesse em modelos de previsão, estatística e economia
-- 💬 Programo em Python e R
+- 📫 Msc in economics at UFRJ
+- ⚡ Currently working on machine learning and data analysis projects
+- 👯 My interests include statistics, economics and forecasting models
+- 👩‍💻 Programming languages: Python & R
 
 
 
