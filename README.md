@@ -1,8 +1,11 @@
 ### Hi, I'm Michelle 
 
 - 👩‍💻 I'm currently working on machine learning and data analysis projects
+
 - 💻 Programming languages: Python, R and SQL
+
 - 🎲 My interests include renewable energy, economics and statistics
+
 - 📫 Msc in applied aeconomics at UFRJ with studies on quantitative methods and forecasting models
 
 
