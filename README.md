@@ -6,7 +6,7 @@
 
 - 🎲 My interests include renewable energy, economics and statistics
 
-- 📫 Msc in applied aeconomics at UFRJ with studies on quantitative methods and forecasting models
+- 📫 Msc in applied aeconomics at UFRJ with studies on quantitative methods and time series econometrics
 
 
 
