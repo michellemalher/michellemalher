@@ -1,4 +1,4 @@
-### Hi, I'm Michelle 
+### Hi, I'm Michelle  
 
 - 👩‍💻 I'm currently working on machine learning and data analysis projects
 
