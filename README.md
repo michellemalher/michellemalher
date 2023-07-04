@@ -6,7 +6,7 @@
 
 - 🎲 My interests include renewable energy, economics and statistics
 
-- 📫 Msc in applied aeconomics with studies on quantitative methods and time series econometrics
+- 📫 M.Sc. in applied aeconomics with studies on quantitative methods and time series econometrics
 
 
 
